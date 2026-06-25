@@ -124,3 +124,8 @@ Step 9  →  User can search another city or type 'quit'
 | Request timeout | `❌ Request timed out. Try again later.` |
 | Empty input | `⚠️ Please enter a city name.` |
 ```
+```
+**Conclusion:**  
+This project successfully demonstrates the use of Python and API integration to fetch and display real-time weather information through a user-friendly command-line interface. It enhances practical skills in API handling, data processing, error management, and CLI application development.  
+```
+
